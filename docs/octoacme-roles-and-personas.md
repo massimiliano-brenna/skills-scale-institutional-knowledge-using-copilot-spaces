@@ -75,7 +75,58 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Change Manager
+
+### Role Summary
+Coordinates change implementation across teams, manages change communications, and ensures proper documentation of changes in process artifacts.
+
+### Responsibilities
+- Schedule and communicate changes across delivery and stakeholder teams
+- Ensure all required change documentation is up-to-date and distributed
+- Assess impact of proposed changes on project timelines, risks, and resources
+
+### Interactions
+- Works closely with Project Manager and Product Lead to plan, execute, and communicate change
+- Collaborates with stakeholders to evaluate and implement change impact
+
+---
+
+## Program Sponsor
+
+### Role Summary
+Champions the project at the executive level, secures resources, removes high-level blockers, and validates strategic alignment.
+
+### Responsibilities
+- Advocate for the project and champion its business case
+- Ensure resources (funding, people) are available for successful delivery
+- Remove organizational blockers and provide escalation pathways for critical issues
+
+### Interactions
+- Works directly with Product and Project Managers
+- Provides regular feedback and decision-making support
+- Validates strategic alignment and priorities with senior leadership
+
+---
+
+## Business Analyst
+
+### Role Summary
+Gathers detailed requirements, validates business needs, analyzes workflows, and bridges gaps between technical teams and stakeholders.
+
+### Responsibilities
+- Elicit and document business needs and requirements from stakeholders
+- Analyze workflows and propose improvements or efficiencies
+- Ensure requirements are clear, feasible, and aligned with business goals
+
+### Interactions
+- Collaborates with Product Managers for requirement clarification
+- Supports Developers and QA in understanding business context
+- Maintains alignment between business and technical perspectives
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+
 
